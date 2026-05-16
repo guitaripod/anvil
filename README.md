@@ -10,6 +10,8 @@ A native iOS qBittorrent client, built on Arch Linux.
 
 Pure programmatic UIKit, cross-compiled from Linux to iOS, deployed to iPhone over USB. No Xcode, no macOS, no storyboards.
 
+![Screenshots](screenshots.png)
+
 ## Stack
 
 | | |
