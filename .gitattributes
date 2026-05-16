@@ -1,0 +1,4 @@
+*.plist linguist-vendored
+*.yml linguist-vendored
+*.yaml linguist-vendored
+*.md linguist-documentation
